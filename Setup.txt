@@ -21,3 +21,10 @@ stop
 run shutdown.bat
 
 
+---=============
+To use jenkins by tomcat server
+webapps/
+
+paste jenkins.war under weapps
+
+just restart tomcat
